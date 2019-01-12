@@ -1,0 +1,9 @@
+*** IPv4 ***
+
+- ACL Estandar: https://www.youtube.com/watch?v=bplErp52ZNg
+
+- ACL Extendida: https://www.youtube.com/watch?v=OtpoVEmPaMU
+
+*** IPv6 ***
+
+http://www.itesa.edu.mx/netacad/switching/course/module9/9.5.2.4/9.5.2.4.html
