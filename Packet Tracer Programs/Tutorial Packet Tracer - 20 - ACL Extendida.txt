@@ -1,0 +1,7 @@
+*** IPv4 ***
+
+- ACL Estandar: https://www.youtube.com/watch?v=bplErp52ZNg
+
+- ACL Extendida: https://www.youtube.com/watch?v=OtpoVEmPaMU
+
+*** IPv6 ***
